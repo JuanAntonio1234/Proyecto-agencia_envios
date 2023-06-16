@@ -1,10 +1,11 @@
-# Proyecto-agencia_envios
-Proyecto completo de la asignatura Bases de datos de 1º de DAW. Este proyecto consta en la creación de una base de datos para una agencia de envíos.
+# agencia_envios project.
+
+Complete project for the subject "Databases" in the first year of DAW (Web Application Development). This project involves creating a database for a shipping agency.
 
 
 How to use:
 
--clone the repository.
+-clone the repository inside a folder.
+-put the folder inside the "htdocs" folder of xammp.
 -Create a database called "agencia_envios" in postgres and restore it with the file "agencia_envios.sql" wich is a backup of the database.
--copy the "fase10" folder and add it into your htdocs folder of xammp.
--turn on both the postgres database and the xammp server and write "localhost"fase10" in your browser.
+-turn on both xammp and the postgres database, and write in your browser: "localhost/nameOfTheFolder" (replace "nameOfTheFolder" for the name of it).
